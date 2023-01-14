@@ -1,0 +1,3 @@
+line 0: phone:fb_id:fname:lname:gender:current_city:hometown:relationship_status:work:graduation_year:email:dob
+line 9599096: 79991055985:100009066017740:SanJuu:Reddy:male:Orenburg, Russia:Hindupur:Single:Hë¥.....
+line 9599097: ÐúÐ€.......í'm $t¡lL $túÐ¥¡Ñg   nØt   ¥€t wØ₹k.........,:1/19/2019 12:00:00 AM::

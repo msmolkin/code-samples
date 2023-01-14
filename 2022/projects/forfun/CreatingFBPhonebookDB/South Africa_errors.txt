@@ -1,0 +1,317 @@
+line 0: phone:fb_id:fname:lname:gender:current_city:hometown:relationship_status:work:graduation_year:email:dob
+line 32784: 27710068270:100008712257217:Babalwa:Sibeko:female::::Not Yet Working I am
+line 32785: Still Stuying:12/19/2017 12:00:00 AM::
+line 107216: 27710232496:100009992675439:David:Jacobs:male::::Rapper,Producer,Song write
+line 107217: 
+line 107218: 
+line 107219: 
+line 107220: 
+line 107221: @BADBOYS RecorDs.:8/20/2016 12:00:00 AM::
+line 192252: 27710422788:100009610514245:Ayanda:Nazo:male::::god mobile shop
+line 192253: god janral stor
+line 192254: and..
+line 192255: God rediam wark..andpur:10/13/2015 12:00:00 AM::
+line 227276: 27710498784:100019886139391:Sthah Ncanana:Dwinky:female:Ethekwini:Richards Bay, KwaZulu-Natal::Fuck Relationship....I A'm single,100% olL Fake nOnsense.
+line 227277: "*Fuck off bulshit*":8/4/2017 12:00:00 AM::
+line 264939: 27710581658:100008287394719:Handy:Lazola:male::Kimberley, Northern Cape::fuck it┬░i dnt work
+line 264940: 
+line 264941: 
+line 264942: 
+line 264943: 
+line 264944: ...am a teen i'am .... still in skwl:5/9/2014 12:00:00 AM::
+line 354571: 27710777462:100009511029792:Joseph:Sithole:male::::Police DAV Public  School, Jalandhar  Cantt
+line 354572: Student:8/8/2018 12:00:00 AM::
+line 441536: 27710977731:100010123665157:Motswahole:Masilo:male::::Not yet working. I am still studying
+line 441537: Went to Holy Faith Secondary  School:8/31/2018 12:00:00 AM::
+line 557694: 27711292262:100008849343025:Sphola M:Naydedog:male::::Sladden lnternational 
+line 557695: Civil Engineering Contractors
+line 557696: BASIL READ:1/8/2015 12:00:00 AM::
+line 557899: 27711292849:100004805583524:Tshifhiwa:Tshifhiwa:male::::Professional thug.
+line 557900: crime pays big:8/25/2014 12:00:00 AM::
+line 582324: 27711358366:100015513634367:Lwando:Daniel:male:Cape Town, Western Cape:Cape Town, Western Cape::*!I'M NT YET WRKNG.
+line 582325: I'M STILL STUDING*!.:5/5/2018 12:00:00 AM::
+line 694298: 27711659544:100007193295487:Sfiso:Fesa:male::::Now im still studying 
+line 694299: not yet working:12/21/2014 12:00:00 AM::
+line 880664: 27712147927:100005053789421:Minentleh:Mverlahser:female:Durban, KwaZulu-Natal::Single:NoT yEt WoRkInG i'M sTiLl StUdInG.
+line 880665: Paststudent:8/24/2018 12:00:00 AM::
+line 1158402: 27712905342:100007041823007:Nelson P Cossa:Cossa:male:Pretoria, South Africa:Massinga, Inhambane, Mozambique::Mecanico
+line 1158403: em
+line 1158404: Klerksdorp:11/1/2014 12:00:00 AM::
+line 1304968: 27713332750:100004314165768:Masombuka:Dyna:female:::Engaged:NoT YeT WoRkInG!!!
+line 1304969:      I'm StIlL StUdInG. . ":10/21/2017 12:00:00 AM::
+line 1500621: 27713926398:100008220184416:Lungie:Nothando::Durban, KwaZulu-Natal:::Thakurgaon Unilivar Cosmatic 
+line 1500622: Bangladesh:8/16/2017 12:00:00 AM::
+line 1628797: 27714306016:100008532484174:Nhlanzeko:Gwala:female::::Student of the year 
+line 1628798: Not Yt WoRkng IM stll sTudYng:4/8/2015 12:00:00 AM::
+line 1661248: 27714396769:100026146549119:Amahle:Billie:male:Delft:Langa:Single:Not yet working. I am still studying
+line 1661249: Student:7/19/2018 12:00:00 AM::
+line 1680408: 27714452156:100002805677750:Ntombiyamazulu:Zulu:female:Durban, KwaZulu-Natal:Mount Frere, Eastern Cape:Engaged:Student
+line 1680409: Not yet working;i'm $till studying right now:1/16/2018 12:00:00 AM::
+line 1680969: 27714453664:100008342354088:Uhm Appreciate:Momonkiie:female:::In a relationship:><fg=b0bf00ff>
+line 1680970: Ôûæ ÔûæÔÖíÔûæÔÿåÔûæÔÿàÔûæ Pink
+line 1680971: PrincessÔÿà
+line 1680972: Ôûæ ÔûæÔÖíÔûæÔÿåÔûæÔÿàÔûæ
+line 1680973: <fg=b0ff00ff> ÔùÅÔùï┬░ÔùÅÔùï
+line 1680974: ┬░ÔùÅÔùï┬░ÔùÅÔùï┬░ ÔÖíOf
+line 1680975: FacebookÔÖí ÔùÅÔùï┬░ÔùÅÔùï┬░ÔùÅÔùï
+line 1680976: ┬░ÔùÅÔùï┬░fun&i love u my swt freind.s:8/16/2018 12:00:00 AM::
+line 1685937: 27714466841:100011632174964:Sibusiso Bahle:Vilakazi:male::::fuck it┬░i dnt work
+line 1685938: 
+line 1685939: 
+line 1685940: 
+line 1685941: 
+line 1685942: ...am a teen i'am .... still in skwl:8/29/2018 12:00:00 AM::
+line 1880038: 27715070182:100016410851100:Creazy Mayo Boy:Melben:male:Johannesburg, Gauteng:Pretoria, South Africa::'''NoT YeT WorkiNg'''
+line 1880039: '''I Am Still A {STUDENT}'''
+line 1880040: [ M.A. Dbru Unvrsty ]:4/16/2017 12:00:00 AM::
+line 2001878: 27715398887:100009254377362:Thokozani:Short:male::::Rapper,Producer,Song write
+line 2001879: 
+line 2001880: 
+line 2001881: 
+line 2001882: 
+line 2001883: @BADBOYS RecorDs.:8/27/2018 12:00:00 AM::
+line 2010495: 27715423358:100008411375960:Gugu:Pearl:female::::Nt yet workng
+line 2010496: Still studying:9/27/2014 12:00:00 AM::
+line 2070309: 27715581232:100007003651008:Bonga:Zwane:male:Newcastle, KwaZulu-Natal:::Not Yet Working I m Still Studying.
+line 2070310: Don't play with my heart.I love someone but she has no feelings towards me.My life is full of sadness.:2/15/2015 12:00:00 AM::
+line 2168283: 27715840789:100010037507083:Thobani:Wilfried:male::::Not yet working still studing !!..
+line 2168284: Im still youth...Hehehe!!!!:9/15/2015 12:00:00 AM::
+line 2209660: 27715952409:100015884117585:Noxolo Mamikilious:Pretty:female::KwaMhlanga::noT yeT wOrKinG!!
+line 2209661: i M sTilL StaDInG:8/15/2017 12:00:00 AM::
+line 2290680: 27716265870:100004871175017:Sindiswa:Mhlongo:female::::Past Not Yet Working!
+line 2290681: I m Still Studying! Hehe:11/4/2014 12:00:00 AM::
+line 2418309: 27717047474:100005827003516:Nokwethemba:Thabethe:female:Pongola, KwaZulu-Natal:Pongola, KwaZulu-Natal:Single:I'm still a student !!
+line 2418310: Rocking my school days !!:7/29/2018 12:00:00 AM::
+line 2440668: 27717096428:100008040859212:Hlanganani:Bhutiza Mathenjwa:male::::Nt yEt wOrkIng !!
+line 2440669: iM stIl stUdiNg !!:4/13/2015 12:00:00 AM::
+line 2514954: 27717257694:100007844853109:Nqobile:Mthembu:female:Richards Bay, KwaZulu-Natal:Richards Bay, KwaZulu-Natal:In an open relationship:*NoT woRk!nG Yet!!
+line 2514955: I'm sTiLL sTuDinG#...:6/2/2016 12:00:00 AM::
+line 2529409: 27717289251:100013167152158:Thosh:Tbn:male::::Rapper,Producer,Song write
+line 2529410: 
+line 2529411: 
+line 2529412: 
+line 2529413: 
+line 2529414: @BADBOYS RecorDs.:8/17/2016 12:00:00 AM::
+line 2535012: 27717301613:100009565997833:Simphiwe Vincent:Mhikathi:male::::Love is game
+line 2535013: Easy to start
+line 2535014: Hard to finish:1/1/0001 12:00:00 AM::
+line 2628717: 27717513346:100003847721838:Julius Sithole:Sithole:male:::Single:Albany bakery 
+line 2628718: South  Africa
+line 2628719: Johannesburg:8/17/2018 12:00:00 AM::
+line 2687558: 27717644495:100009701733181:Sqamo:Tsobana:male::::"Not Yet WoRkinG" 
+line 2687559: " A'm sTilL sTudYnG ":8/3/2017 12:00:00 AM::
+line 2717217: 27717709967:100015010937630:Maraiza:Ncebsie:female::::Cape Pensula Technology University (CPTU
+line 2717218: 
+line 2717219: ):2/8/2017 12:00:00 AM::
+line 2764804: 27717812902:100007868946598:Bongisipho Linothando:Nkebe:male:Umtata:Umtata Mouth, Eastern Cape, South Africa::"Not Yet WoRkinG" 
+line 2764805: " A'm sTilL sTudYnG ":8/17/2018 12:00:00 AM::
+line 2835862: 27717975202:100008522915419:Zikhona Zish:Mdunyelwa:female::::NoT yeT WorKinG !!
+line 2835863: iM StilL StuDyinG !!:5/1/2015 12:00:00 AM::
+line 2864314: 27718040252:100006956169727:Sikelela:Mqokonyeli:male::::Jst cut it!!
+line 2864315: None of ur busness->:10/31/2014 12:00:00 AM::
+line 2904944: 27718129820:100006898033440:Zizipho Nonhi:Mjobo:female::::n0N y3T Am sT┬┐L┬ú
+line 2904945: sTuDy┬┐nG AM a sTuDeNt:6/5/2014 12:00:00 AM::
+line 2968119: 27718273189:100005606029378:Britney:Shaheem:female:::Single:No work
+line 2968120: student:5/4/2018 12:00:00 AM::
+line 3018136: 27718384258:100023896472402:Azania:Mbadu:female:New Delhi:Mdantsane, Eastern Cape:In a relationship:I M NoT YeT..working DuDe...
+line 3018137: I aM..sTill StUdInG......:8/17/2018 12:00:00 AM::
+line 3220169: 27719064199:100004584645505:Notha:Zukisani:male::::"Not Yet WoRkinG" 
+line 3220170: " A'm sTilL sTudYnG ":11/8/2014 12:00:00 AM::
+line 3275074: 27719183619:100006798918026:Tar P-kay:Bhala:male:::It's complicated:I am not working anywhere,
+line 3275075: I m still studying:8/16/2018 12:00:00 AM::07/17/1999
+line 3294543: 27719225379:100026294041644:Bokulu Vaci:Bokulu:male:Cape Town, Western Cape:::i dOnt hAvE AnY JoB
+line 3294544: StILl i Am StUdENt:6/1/2018 12:00:00 AM::
+line 3405768: 27719474723:100009520894649:Patrick Kassim:Bussilie:male::::NoR wORkiNg ....!!!! YeT sTilL Ôé¼Ôé¼Ôé¼Ôé¼Ôé¼┬Ñ┬Ñ s
+line 3405769: TuDyiNg..........---!!?????wrkng.....????????!:1/1/0001 12:00:00 AM::
+line 3522941: 27719736706:100014142064154:Ta Zuks:Sobetwa:male::::College of agriculture and environmental sciences.
+line 3522942: DEPARTMENT OF AGRICULTURAL AND BIOSYSTEMS ENGINEERING (CAES):1/1/0001 12:00:00 AM::
+line 3612313: 27719944403:100008051642998:Love-lorn:Becham:male:Pretoria, South Africa:::General
+line 3612314: worker:8/17/2018 12:00:00 AM::
+line 3627606: 27719981306:100011728112399:Noceepow:Mbuke:female::Vereeniging, Gauteng:Single:fuck it┬░i dnt work
+line 3627607: 
+line 3627608: 
+line 3627609: 
+line 3627610: 
+line 3627611: ...am a teen i'am .... still in skwl:5/27/2016 12:00:00 AM::
+line 3912089: 27722168346:100008149966502:Khanyi:Jamela:female::::"NoT yet 
+line 3912090: WoRking"Im Stili StUdYinG:12/9/2014 12:00:00 AM::
+line 4178178: 27723998570:100007389249479:Njanya Amanda:Amishy:female::::Nt YeT woRkINg..!!
+line 4178179: M StilL StuDyINg...Dude!!:9/9/2018 12:00:00 AM::
+line 4243027: 27724441782:100027187342269:MC Q Flavour:Sgwaza:male:Nongoma, KwaZulu-Natal:Mtubatuba, KwaZulu-Natal::N├©t.Yet...W├©rking...I..'M'..
+line 4243028: Still...StUdYing..N├Âw..!┬í.!┬í..:7/11/2018 12:00:00 AM::
+line 4320937: 27725005450:100005141594217:Simon:Mahlo:male::::xstrata boshoek,watervaal smelter,   
+line 4320938: D.R.a.Maseve;Rasimone mine,powersteel impala:10/21/2013 12:00:00 AM::
+line 4477041: 27726147440:100008138795256:Mashoto:Makgale:male::Polokwane::Nt yet workng
+line 4477042: Still studying:9/4/2018 12:00:00 AM::
+line 4794877: 27728511084:100024083512993:Buhle:Thabo:male:::Single:NoR wORkiNg ....!!!! YeT sTilL Ôé¼Ôé¼Ôé¼Ôé¼Ôé¼┬Ñ┬Ñ s
+line 4794878: TuDyiNg..........---!!?????wrkng.....????????!:3/26/2018 12:00:00 AM::
+line 4824202: 27728736043:100012798703496:H Yassin:Azili:male:Salima, Malawi:Salima, Malawi::I am not working anywhere,
+line 4824203: I m still studying:9/1/2018 12:00:00 AM::
+line 4828848: 27728771134:100008900868936:Mthoko:Zungu:male:Durban, KwaZulu-Natal:Nkandla, KwaZulu-Natal::noT yeT wOrKinG!!
+line 4828849: i M sTilL StaDInG:7/28/2018 12:00:00 AM::
+line 4838744: 27728845084:100009560527247:Melusi:Nkosi:male:::It's complicated:fuck it┬░i dnt work
+line 4838745: 
+line 4838746: 
+line 4838747: 
+line 4838748: 
+line 4838749: ...am a teen i'am .... still in skwl:7/22/2018 12:00:00 AM::
+line 4858426: 27728995788:100010898530032:Magwele:Shiko:male::::HAP SENG PLANTATIONS (RIVER ESTATES) SDN BHD
+line 4858427: follow - up assessment report ffb guality
+line 4858428: CHECKERS REPORT:9/10/2018 12:00:00 AM::
+line 5158182: 27731011457:100005425604933:Yanda MaZiduli:Mfanekiso:female::Mdantsane, Eastern Cape:In a relationship:Nt yet workng
+line 5158183: Still studying:6/1/2019 12:00:00 AM::
+line 5238485: 27731501737:100008374606740:Ncebakazi:Sifonondile:female::::Not yet work
+line 5238486: I'm still studying:1/1/0001 12:00:00 AM::
+line 5243074: 27731526417:100002866029207:Khumbuzile:Gxabhashe:female:Ladysmith, KwaZulu-Natal:Ladysmith, KwaZulu-Natal:Single:Mnambithi TVET
+line 5243075: Ladysmith Campus:9/10/2018 12:00:00 AM:khumbuziledondelihlegxabhashe@gmail.com:
+line 5270286: 27731678001:100008118283929:Mlu Mlungic:Collen:female::::"Not Yet WoRkinG" 
+line 5270287: " A'm sTilL sTudYnG ":3/21/2015 12:00:00 AM::
+line 5430986: 27732596940:100012108343342:Christoph:Rakhale:male:Ugie, Eastern Cape, South Africa:Ugie, Eastern Cape, South Africa::fuck it┬░i dnt work
+line 5430987: 
+line 5430988: 
+line 5430989: 
+line 5430990: 
+line 5430991: ...am a teen i'am .... still in skwl:7/19/2017 12:00:00 AM::
+line 5816493: 27734929057:100025115232847:Magret:Bie:female::::N├úo trabalho a penas estudo, ainda dependo
+line 5816494: Mais em breve terei aminha empresa come├ºarei do zero ( 0 ) gostou n├®:8/26/2018 12:00:00 AM::
+line 6568777: 27739592472:100008363470183:Siphathele Mzinya Bota:Spha:male::::Pdai ki ma ka ...
+line 6568778:    Saala pdai me man hi ni lgta yr ...:5/25/2014 12:00:00 AM::
+line 6598367: 27739787922:100007925583831:Kiidoh:Muhlleza IV:female:::Married:"Not Yet WoRkinG" 
+line 6598368: " A'm sTilL sTudYnG ":8/27/2018 12:00:00 AM::08/19/2000
+line 6613688: 27739887267:100007856837526:Zikhona:Siko:female:Lusikisiki, Eastern Cape, South Africa:::Nt yet workng
+line 6613689: Still studying:9/4/2018 12:00:00 AM::
+line 6933220: 27745205679:100007763059503:Njabulo:Patrick Ndlovu:male:Johannesburg, Gauteng:::Not yet working....!!!
+line 6933221: I'm still studing....!!!:8/12/2018 12:00:00 AM::05/06/1998
+line 6936865: 27745254647:100005147890052:Dr-KAy:Tlhole:male::Sasolburg::.............Loading.....ÔûêÔûêÔûêÔûêÔûêÔûê ÔûêÔûêÔûêÔûêÔûêÔûê100%  ORIGINALPROFILE ┬« Ô£ö  VerifiedOfficial Facebook()
+line 6936866: Loading Swagger  On... ÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûêÔûê...  100% Complete:9/10/2018 12:00:00 AM::
+line 7125959: 27747859963:100022090623721:Thando:Maselanga:female:Johannesburg, Gauteng:Katlehong, Gauteng:In a relationship:fuck it┬░i dnt work
+line 7125960: 
+line 7125961: 
+line 7125962: 
+line 7125963: 
+line 7125964: ...am a teen i'am .... still in skwl:2/27/2018 12:00:00 AM::
+line 7219257: 27749166784:100008298243050:Bokamoso Pebane:Boka:female::::I am not wrking,
+line 7219258: I am still stdyng..:7/30/2015 12:00:00 AM::
+line 7532347: 27762308418:100034367507298:Naitive:Jay:male:Tembisa, Gauteng:Tembisa, Gauteng::Nøt.Yet...Wørking...I..'M'..
+line 7532348: Still...StUdYing..Nöw..!¡.!¡..:3/6/2019 12:00:00 AM::
+line 7759409: 27764260163:100011649494149:Sbosh Faith:Radebe:female:::Single:N├©T y├®T W├ÂrK├¡ng 
+line 7759410: ├» ├ñm $t├¡LL $t├║├É├¢i├▒G.......!!!!!!:9/24/2017 12:00:00 AM::
+line 7785083: 27764494442:100005358918363:Qiniso:Radebe:male::::Nt YeT woRkINg..!!
+line 7785084: M StilL StuDyINg...Dude!!:4/29/2016 12:00:00 AM::
+line 7858796: 27765113392:100004351571493:Maneli:Thabede:female::::"Im stil studying 
+line 7858797: Nt yet work":9/5/2015 12:00:00 AM::
+line 7874668: 27765246739:100008491362833:Jo-ann:Gereldine:female:Pretoria, South Africa:Pretoria, South Africa:It's complicated:fuck it┬░i dnt work
+line 7874669: 
+line 7874670: 
+line 7874671: 
+line 7874672: 
+line 7874673: ...am a teen i'am .... still in skwl:5/3/2015 12:00:00 AM::
+line 7919689: 27765616479:100007544885380:Ntombie:Mdlalose:female:Tsakane:Tsakane:Single:Me!? Huh!? Work!? No No thats a fucken flop
+line 7919690: Anam doesnt wanna work cos she still young and 16 yrs:8/6/2018 12:00:00 AM::
+line 7929423: 27765693940:100004292615002:Nokuthula:Congra:female::Amersfoort:Married:NoT YeT WoRkinG, i aM sTiLL sTudYnG,,,,STUDenT" at Not  yet working im still studyng
+line 7929424: Studied Commerce at st:6/3/2017 12:00:00 AM::
+line 8164385: 27767622512:100026651464713:Zanele:Malambe:female:Kwambombela, Eastern Cape, South Africa:Hazyview, Mpumalanga::N├©t..yet...W├©rki├▒g...├ì..M..
+line 8164386: ..$till..StdYing...N├Âw..!┬í!┬í..:8/27/2018 12:00:00 AM::
+line 8470275: 27780188028:100002035501735:Yamkela:Yamkela:female:Idutywa, Eastern Cape:Port Elizabeth, Eastern Cape::aM sTiLl StUdYiNg...! In LaSt BeNcH sTuDeNt
+line 8470276: Work Position:3/29/2019 12:00:00 AM::
+line 8484574: 27780279802:100003868921073:Molisana:Bafokeng:male::Bizana, Eastern Cape::I am not working anywhere,
+line 8484575: I m still studying:5/17/2019 12:00:00 AM::12/07
+line 8501242: 27780389565:100008308697747:Onkarabile:Machwisa:female:::In an open relationship:I'M NT YET WRKNG.
+line 8501243: I'M STILL STUDYING.:5/6/2019 12:00:00 AM::
+line 8530182: 27780583219:100008326230443:Qaqamba Faith Mmbo:Maqhinebe:female:Butterworth, Eastern Cape::Single:Nt yet workng
+line 8530183: Still studying:5/29/2019 12:00:00 AM::
+line 8615587: 27781151030:100002944858624:Nkanyiso:Kheswa:male:Durban, KwaZulu-Natal:Umlazi, Kwazulu-Natal, South Africa::IMPROCHEM
+line 8615588: water,Energy & Air Solutions:7/8/2016 12:00:00 AM::
+line 8628194: 27781231063:100022798171061:Cneh:Sneh:female:Harding, KwaZulu-Natal:Harding, KwaZulu-Natal::Life Is
+line 8628195: WhaT U
+line 8628196: MakE It
+line 8628197: [][][][][]
+line 8628198: NoT YeT WorkinG
+line 8628199: I m StilL StudyinG
+line 8628200: HerE JusT Now....:4/2/2018 12:00:00 AM::
+line 8673708: 27781513561:100008310305268:Msekeli:Mngonyama:male:Durban, KwaZulu-Natal:Umzimkulu, Eastern Cape, South Africa:Single:*!I'M NT YET WRKNG.
+line 8673709: I'M STILL STUDING*!.:8/11/2018 12:00:00 AM::
+line 8737415: 27781900489:100009450944621:Onele:Mafuya II:female::::"Not Yet WoRkinG" 
+line 8737416: " A'm sTilL sTudYnG ":3/30/2018 12:00:00 AM::
+line 9159341: 27784501533:100005364006488:Jacqueline:Seabelo:female:Rustenburg:Rustenburg:Single:Self Mad 3
+line 9159342: Pictures:9/10/2018 12:00:00 AM::
+line 9205989: 27784843346:100005638489364:Athenkosi:Daniel:male:Khayelitsha::Single:"Not Yet WoRkinG" 
+line 9205990: " A'm sTilL sTudYnG ":9/4/2018 12:00:00 AM::
+line 9263407: 27785197795:100007205407874:Sisanda:Ratyana:female:Port Elizabeth, Eastern Cape:Port Elizabeth, Eastern Cape::"Not Yet WoRkinG" 
+line 9263408: " A'm sTilL sTudYnG ":8/26/2018 12:00:00 AM::
+line 9288167: 27785347732:100027081372061:Lebza:Mkwanazi:female::::STRONGPAK LTD
+line 9288168: (sakiza group co.):9/2/2018 12:00:00 AM::
+line 9292868: 27785375882:100002944858624:Nkanyiso:Kheswa:male:Durban, KwaZulu-Natal:Umlazi, Kwazulu-Natal, South Africa::IMPROCHEM
+line 9292869: water,Energy & Air Solutions:7/8/2016 12:00:00 AM::
+line 9375188: 27785877554:100003067124249:Lalla:Makhele:female:Matatiele, KwaZulu-Natal:Matatiele, KwaZulu-Natal:It's complicated:Agricultural
+line 9375189: manegement:6/2/2018 12:00:00 AM::
+line 9725793: 27788140534:100014573371041:Sandisiwe:Dibakazi:female:::Single:I M NoT YeT..working DuDe...
+line 9725794: I aM..sTill StUdInG......:10/15/2017 12:00:00 AM::
+line 9770848: 27788418361:100007480786053:Ayandah:Fortune:male::::"Not Yet WoRkinG" 
+line 9770849: " A'm sTilL sTudYnG ":2/17/2015 12:00:00 AM::
+line 9958639: 27789739555:100007832434722:Nolwazi:Dlamini:female::::NoT yEt WoRkInG i Am StIlL sTuDyNg........!!! 
+line 9958640: He He I aM sTiLl YoUtH....!!!!!:9/26/2014 12:00:00 AM::
+line 9988158: 27789954237:100009343198045:Noxy:Bhongo:female:Soweto, Gauteng:Soweto, Gauteng::fuck it┬░i dnt work
+line 9988159: 
+line 9988160: 
+line 9988161: 
+line 9988162: 
+line 9988163: ...am a teen i'am .... still in skwl:9/3/2018 12:00:00 AM::
+line 10130430: 27791325235:100007881210636:Nomcebo:Ntshangase:female::Nongoma, KwaZulu-Natal:In a relationship:Nt YeT woRkINg..!!
+line 10130431: M StilL StuDyINg...Dude!!:8/5/2018 12:00:00 AM::
+line 10275857: 27792661563:100006190260478:Shila:Ngobeni:female:Pretoria, South Africa:Polokwane:Single:*NoT yeT workinG !M still
+line 10275858:   studinG*:2/2/2019 12:00:00 AM::
+line 10383099: 27793567741:100005300239371:Bafana:Ishmael:male:Dhaka, Bangladesh:Soweto, Gauteng:In an open relationship:LA VINO'Z PLACE LA
+line 10383100: -ITALIA:1/26/2019 12:00:00 AM::
+line 10686187: 27796224069:100006956679100:Mzwakhe Artist:Shelembe:male:Durban, KwaZulu-Natal:Tugela Ferry, Kwazulu-Natal, South Africa::No
+line 10686188:   I Am Student:11/3/2017 12:00:00 AM::
+line 10705016: 27796382039:100012497771871:Sambow:Lelow:female:Malelane:Nelspruit, Mpumalanga::Loding........99%
+line 10705017: ______਀਀਀਀
+line 10705018: <i am a college student>
+line 10705019: ਀਀਀਀______
+line 10705020: please-----(wait):6/2/2019 12:00:00 AM::09/20/1996
+line 11084452: 27799699312:100003080678061:Tom:Espy:male:Kanyamazane, Mpumalanga, South Africa:Nelspruit, Mpumalanga:Single:fuck it°i dnt work
+line 11084453: 
+line 11084454: 
+line 11084455: 
+line 11084456: 
+line 11084457: ...am a teen i'am .... still in skwl:5/30/2019 12:00:00 AM::08/09/1991
+line 11244374: 27813743238:100009181204864:Nondumiso:Thembi:female::::"NoT yeT wOrKiNg !!
+line 11244375: buT, iM sTiLl iN stUdiNg":1/1/0001 12:00:00 AM::
+line 11270622: 27814021927:100008640930866:Mmeli Zuma:Nsindiso:male::::Not yet working
+line 11270623: i'm still studing:2/13/2015 12:00:00 AM::
+line 11300344: 27814345154:100004105061032:Gudman:Jan:male:Pretoria, South Africa:Pretoria, South Africa:In a relationship:I doN't woRk 4 peOple!
+line 11300345: PEople woRk 4 mee!DAtz My aTiItUde!,St CoNveNt SchOoL:6/6/2018 12:00:00 AM::
+line 11811975: 27824863404:100026753769953:Palesa:De Gal:female:Pretoria, Eastern Cape, South Africa:Pretoria, Eastern Cape, South Africa::├▒├ÂT...Y├¬t.....W├ÂrK├»├æg
+line 11811976:  N├Âw....I...├Ñm......sT├╗├░├Ø├«├▒g:9/2/2018 12:00:00 AM::
+line 11853805: 27825092924:100016088299420:Kahlay Brownie:Kehlani:female:Klerksdorp:Rustenburg:Married:fuck it┬░i dnt work
+line 11853806: 
+line 11853807: 
+line 11853808: 
+line 11853809: 
+line 11853810: ...am a teen i'am .... still in skwl:9/7/2018 12:00:00 AM::
+line 12692942: 27833428358:100009828186264:Selai Lehlohonolo Gtboy:Selai:male::::"Not Yet WoRkinG" 
+line 12692943: " A'm sTilL sTudYnG ":7/13/2015 12:00:00 AM::
+line 13278058: 27837376813:100008737509836:Zingiswa:Nyangindlela:female::::Self
+line 13278059: employd:12/28/2014 12:00:00 AM::
+line 13474159: 27839484492:100008238697643:Ntembeko:Poswa:male:Cape Town, Western Cape:Idutywa, Eastern Cape:Single:I'm Student!!!
+line 13474160: NOt yEt wOrkinG,,,I aM StiLL Studying...:8/1/2018 12:00:00 AM::
+line 13549469: 27839955571:100012609667173:Mduduzi:Mtshali:male:Delmas, Mpumalanga:Delmas, Mpumalanga::fuck it┬░i dnt work
+line 13549470: 
+line 13549471: 
+line 13549472: 
+line 13549473: 
+line 13549474: ...am a teen i'am .... still in skwl:6/22/2016 12:00:00 AM::
+line 13788865: 27843890012:100007388072898:Dokuta:Macingwane:male::::Nt yet working
+line 13788866: I m still studing:9/17/2014 12:00:00 AM::
+line 13842028: 27844446785:100008221651092:Mandla Leeroy:Mnyandu:male::Johannesburg, Gauteng::work? i'am a Student
+line 13842029: i dont work!:7/29/2018 12:00:00 AM::
+line 13945432: 27845589861:100009669500565:Lourndekarh Loourwell:Courmore:female::::NOT Yet W├Ârkng,
+line 13945433: M stIll St├ÖDY├▒g:8/4/2015 12:00:00 AM::
+line 13990659: 27846025452:100009511029792:Joseph:Sithole:male::::Police DAV Public  School, Jalandhar  Cantt
+line 13990660: Student:9/8/2018 12:00:00 AM::
+line 14077295: 27846966801:100002599488397:Jacque:Jackie:male:Addis Ababa, Ethiopia:Mbuzini, Mpumalanga, South Africa:Single:[emma #Lazy Lim
+line 14077296: i dn'T wnt  to  work!!!
+line 14077297: i jst wnt to make fun oF evrEthn..]:6/25/2018 12:00:00 AM::
+line 14221655: 27848639440:100008023272143:Mnotho:Khumalo:male::::Nt yet workng
+line 14221656: Still studying:9/9/2018 12:00:00 AM::

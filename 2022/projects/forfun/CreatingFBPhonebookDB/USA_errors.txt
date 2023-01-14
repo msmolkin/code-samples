@@ -1,0 +1,2 @@
+line 0: phone:fb_id:fname:lname:gender:current_city:hometown:relationship_status:work:graduation_year:email:dob
+line 10283462: 14433921147:100001218029247:Julio:Vega:male:Baltimore, Maryland:Lima, Peru:Single:la efemale:::::1/30/2019 12:00:00 AM::
